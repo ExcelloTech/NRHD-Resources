@@ -1,7 +1,7 @@
 <?php
 
 $from = 'NRHD Resources Web <no-reply@nrhd-resources.com>';
-$sendTo = 'NRHD Resources Web Inquiry <lakmalhimbutu@gmail.com>'; 
+$sendTo = 'NRHD Resources Web Inquiry <nrhd-resources@outlook.com >'; 
 $subject = 'New message: '. $_POST["subject"] . ' | NRHD Resources web contact form';
 $fields = array('name' => 'Name', 'subject' => 'Subject', 'email' => 'Email', 'message' => 'Message'); // array variable name => Text appear in the email
 $okMessage = 'Contact form successfully submitted. Thank you, We will get back to you soon!';
