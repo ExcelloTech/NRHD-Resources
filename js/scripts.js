@@ -58,10 +58,10 @@ $(function() {
         responsiveClass:true,
         responsive:{
             0:{
-                items:2
+                items:1
             },
             700:{
-                items:3
+                items:2
             },
             1000:{
                 items:4
@@ -120,15 +120,7 @@ $(function() {
         margin: 15,
         mouseDrag:false,
         autoplay:true,
-        smartSpeed:2000,
-        responsive:{
-            0:{
-                items:1
-            },
-            700:{
-                items:2
-            }
-        }
+        smartSpeed:2000
     });
 });
 
