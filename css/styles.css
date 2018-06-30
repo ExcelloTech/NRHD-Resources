@@ -706,7 +706,7 @@ h2.section-title:after {
   width: 100%;
   padding: 15px;
   font-size: 14px;
-  border: 0;
+  border: 1px solid #7595ff;
   background: #f7f7f7;
   border-radius: 5px;
 }
